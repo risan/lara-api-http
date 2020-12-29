@@ -1,0 +1,26 @@
+{
+    "name": "risan/lara-api-http",
+    "description": "A Laravel base controller class for API project.",
+    "keywords": ["laravel", "api"],
+    "homepage": "https://github.com/risan/lara-api-http",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Risan Bagja Pradana",
+            "email": "risanbagja@gmail.com",
+            "homepage": "https://risanb.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "illuminate/http": "^8.0",
+        "illuminate/routing": "^8.0",
+        "illuminate/support": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Risan\\LaraApiHttp\\": "src/"
+        }
+    }
+}
