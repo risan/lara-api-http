@@ -2,6 +2,9 @@
 
 An opinionated Laravel base controller for API project.
 
+[![Latest Stable Version](https://poser.pugx.org/risan/lara-api-http/v)](https://packagist.org/packages/risan/lara-api-http) 
+[![License](https://poser.pugx.org/risan/lara-api-http/license)](https://packagist.org/packages/risan/lara-api-http)
+
 ## Installation
 
 This package requires you to use Laravel version 8. Install this package through Composer.
